@@ -1,0 +1,16 @@
+[account]
+qq: 12345678
+pw: password
+
+[gbot]
+enable: 0
+auto: 1
+url: 1
+
+[fbot]
+enable: 1
+auto: 1
+url: 1
+
+[debug]
+enable: 0
