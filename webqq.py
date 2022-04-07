@@ -172,5 +172,6 @@ class QQ:
         else:
             return False
 
+# test hello world
 qq = QQ("****", "****")
 qq.feed("I'm Spider-Man测试")
